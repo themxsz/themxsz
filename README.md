@@ -1,5 +1,3 @@
-# `themxsz/readme.md:~$`
-
 ```bash
 $ whoami
 max ; music, opsec, self-hosting, mostly self-taught 
