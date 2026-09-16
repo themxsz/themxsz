@@ -1,9 +1,6 @@
 ```bash
 $ whoami
-max ; music, opsec, self-hosting, mostly self-taught 
-
-$ status
-learning a bunch of shit, building my own infra
+i'm max. mostly self-taught.
 ```
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
