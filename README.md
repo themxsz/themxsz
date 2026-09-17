@@ -1,7 +1,4 @@
-```bash
-$ whoami
-i'm max. mostly self-taught.
-```
+# Hi im max 👋
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
